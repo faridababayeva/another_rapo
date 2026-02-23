@@ -1,1 +1,2 @@
-# This is a FAQ file where we will add the frequently asked questionsss
+# This is a FAQ file where we will add the frequently asked questions
+
